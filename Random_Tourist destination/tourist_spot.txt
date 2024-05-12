@@ -1,0 +1,102 @@
+수도권,서울,5대 고궁,https://me2.do/xpWSbmlA
+수도권,서울,홍대거리,https://me2.do/FtuEI44f
+수도권,서울,서울숲,https://me2.do/Gl7BT2kT
+수도권,서울,동대문디자인플라자(DDP),https://me2.do/FIo7UXu8
+수도권,서울,롯데월드타워 서울스카이,https://me2.do/xs8Dmqbu
+수도권,서울,남산 N서울타워,https://me2.do/FXKf4sdN
+수도권,서울,청와대 앞길& 서촌마을,https://me2.do/Gt1KQkxE
+수도권,서울,익선동,https://me2.do/xIgrzVtg
+수도권,서울,코엑스(스타필드),https://me2.do/FiOLWKZu
+수도권,인천,개항장문화지구,https://me2.do/GjZ7VSM1
+수도권,인천,인천차이나타운(송월동 동화마을),https://me2.do/GOzNInGv
+수도권,인천,고려도성 여행(강화 원도심 스토리워크),https://me2.do/xt5CuR3q
+수도권,인천,백령도,대청도,https://me2.do/GudSZVTH
+수도권,인천,송도 센트럴파크,https://me2.do/FLha4dCw
+수도권,경기,수원화성,https://me2.do/5IsMTOYf
+수도권,경기,한국민속촌,https://me2.do/5ewN3Bf3
+수도권,경기,용인 에버랜드,https://me2.do/GqNCLAIk
+수도권,경기,서울랜드,https://me2.do/Fep3ayTP
+수도권,경기,광명동굴,https://me2.do/5nX2STeS
+수도권,경기,임진각과 파주 DMZ,https://me2.do/GudlJW5o
+수도권,경기,농협경제지주 안성 팜랜드,https://me2.do/FOMcCDlc
+수도권,경기,두물머리,https://me2.do/5dPxbOEo
+수도권,경기,헤이리예술마을,https://me2.do/GWJmrCB1
+수도권,경기,자라섬,https://me2.do/xiwJduLr
+수도권,경기,재인폭포공원,https://me2.do/xq5cea7L
+강원권,강원,남이섬,https://me2.do/5HtPga0R
+강원권,강원,춘천 삼악산 호수케이블카,https://me2.do/5WHZpQVk
+강원권,강원,간현관광지(소금산그랜드밸리),https://me2.do/G4xXD57o
+강원권,강원,뮤지엄 산,https://me2.do/5fPvDxFG
+강원권,강원,강릉 커피거리,https://me2.do/5Ghngo6h
+강원권,강원,도깨비골 스카이밸리&해랑전망대,https://me2.do/GPXbeHHf
+강원권,강원,무릉계곡,https://me2.do/5smpQBqq
+강원권,강원,대관령,https://me2.do/GbrtaRBJ
+강원권,강원,한탄강 유네스코 세계 지질공원,https://me2.do/IFF4Dq1U
+강원권,강원,원대리 자작나무숲,https://me2.do/FawCSAeA
+충청권,대전,한밭수목원,https://me2.do/FgSYgfwP
+충청권,세종,국립세종수목원,https://me2.do/GVN5h4GQ
+충청권,충북,중앙탑사적공원&탄금호무지개 길,https://me2.do/5LuTWelr
+충청권,충북,청풍호반케이블카,https://me2.do/FhNOYwaF
+충청권,충북,속리산 법주사&속리산테마파크,https://me2.do/Gl7BTEUt
+충청권,충북,도담삼봉,https://me2.do/5Urnpxyr
+충청권,충북,만천하스카이워크&단양강 잔도,https://me2.do/I54zOu2J
+충청권,충남,수덕사,https://me2.do/5v4Er5dn
+충청권,충남,대천해수욕장,https://me2.do/x58XaeYk
+충청권,충남,안면도 꽃지해변,https://me2.do/xMEfoyG4
+충청권,충남,부여백제유적지(부소산성& 궁남지),https://me2.do/xRPzoSXa
+충청권,충남,공주백제유적지(공산성& 무령왕릉과 왕릉원),https://me2.do/51atA2AR
+충청권,충남,서산 해미읍성,https://me2.do/Gbrtad1J
+전라권,광주,국립아시아문화 전당,https://me2.do/xMEfolmH
+전라권,광주,518 기념공원,https://me2.do/GrNK8r39
+전라권,광주,양림역사문화마을,https://me2.do/5DjVFGBt
+전라권,광주,무등산국립공원,https://me2.do/GUtIMd6m
+전라권,전북,내장산국립공원,https://me2.do/5HtPgwve
+전라권,전북,전주한옥마을,https://me2.do/5s3k5ATY
+전라권,전북,마이산도립공원,https://me2.do/5DjVF09c
+전라권,전북,고창 운곡람사르습지,https://me2.do/FUzD8yo7
+전라권,전북,고군산군도,https://me2.do/F2iAaU2Q
+전라권,전북,왕궁리 유적,https://me2.do/FTq6yemy
+전라권,전북,반디랜드&태권도원,https://me2.do/Gcnf3Sbf
+전라권,전남,근대역사문화공간&목포해상케이블카,https://me2.do/FUzD8yo7
+전라권,전남,여수세계박람회장&여수해상케이블카,https://me2.do/5SyA5lvT
+전라권,전남,순천만습지&순천만국가정원,https://me2.do/xLJXxXrm
+전라권,전남,죽녹원,https://me2.do/xecZ4ZBP
+전라권,전남,상생의 길&소나무숲 길,https://me2.do/FqiAUule
+전라권,전남,곡성 섬진강 기차마을,https://me2.do/xOIcicTo
+경상권,부산,태종대 유원지,https://me2.do/FIo7UBuq
+경상권,부산,해운대&송정해수욕장,https://me2.do/xc9yfvU0
+경상권,부산,부산엑스터스카이&해운대 그린레일웨이,https://me2.do/5cAahG8c
+경상권,부산,감천문화마을,https://me2.do/GRmriBom
+경상권,부산,송도용궁구름다리&해수욕장,https://me2.do/x6AFwaMC
+경상권,부산,용두산 자갈치관광특구,https://me2.do/xznRQU69
+경상권,부산,광안리해변&SUP Zone,https://me2.do/5uiCbHAZ
+경상권,부산,오시리아 관광단지,https://me2.do/GXq4uLU5
+경상권,대구,서문시장&등성로,https://me2.do/F6bDSYfe
+경상권,대구,앞산공원,https://me2.do/xmtDTY2P
+경상권,대구,수성못,https://me2.do/G0lvg49S
+경상권,울산,태화강 국가정원,https://me2.do/xDj2eg88
+경상권,울산,영남알프스,https://me2.do/5ewN37I9
+경상권,울산,대왕암공원,https://me2.do/FtuEIc4a
+경상권,울산,장생포고래문화특구,https://me2.do/xylaWViQ
+경상권,경북,스페이스워크,https://me2.do/FC4pcs1t
+경상권,경북,경주대등원(둥궁과월지& 첨성대),https://me2.do/x3qv620J
+경상권,경북,불국사&석굴암,https://me2.do/5WHZp09U
+경상권,경북,소수서원,https://me2.do/GqNCLRgE
+경상권,경북,문경단산모노레일,https://me2.do/xZGnCefm
+경상권,경북,주왕산&주산지,https://me2.do/FIo7Ulsn
+경상권,경북,죽변해안스카이레일,https://me2.do/5hJ8MB8N
+경상권,경북,울릉도&독도,https://me2.do/FnM5GrPe
+경상권,경남,김해가야테마파크,https://me2.do/GZseoUEQ
+경상권,경남,통영디피랑,https://me2.do/x4uS7I7q
+경상권,경남,고성 당항포,https://me2.do/GjZroHdL
+경상권,경남,여좌천(벚꽃),https://me2.do/FS5TX2aj
+경상권,경남,거창 항노화힐링랜드,https://me2.do/FLha4k1b
+경상권,경남,황매산군립공원,https://me2.do/F2iAa55q
+경상권,경남,진주성,https://me2.do/5WHZpEMc
+제주권,제주,성산일출봉,https://me2.do/GkktcCJo
+제주권,제주,한라산국립공원,https://me2.do/FGFCbVcj
+제주권,제주,제주올레길,https://me2.do/xiwJ7KSP
+제주권,제주,우도,https://me2.do/xGmQWV4y
+제주권,제주,비자림,https://me2.do/5K5WAPHw
+제주권,제주,제주돌문화공원,https://me2.do/FwSLla2M
+
